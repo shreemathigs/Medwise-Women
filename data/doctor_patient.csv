@@ -1,0 +1,77 @@
+PatientID,Name,Age,BMI,Irregular_Periods,Excess_Hair_Growth,Acne,TSH_Level,Tiredness,Hair_Fall,Blood_Sugar,Frequent_Urination,Family_Diabetes,PCOS,Thyroid,Diabetes,Recommended_Specialist,DoctorName,HospitalName,HospitalLocation
+P001,Shreya Gupta,54,23.2,1,0,0,3.77,0,0,77,0,0,0,0,0,General Physician,Dr. Jagadeeshwari,Meenakshi Hospitals,Madurai
+P002,Pooja Sharma,17,23.9,0,0,0,-0.92,0,0,123,0,0,0,0,0,General Physician,Dr. Nazneen,Deepan Hospitals,Coimbatore
+P003,Gita Patel,59,38.8,0,0,0,3.59,0,1,84,0,0,0,0,0,General Physician,Dr. Regina Kumari,Medcare Center,Chennai
+P004,Bhavya Nath,50,24.5,1,0,0,3.31,0,0,51,1,1,0,0,0,General Physician,Dr. Sophia Priya,Silverline Hospitals,Sivagangai
+P005,Meera Singh,51,29.7,0,0,0,3.26,0,0,119,0,0,0,0,0,General Physician,Dr.Nivetha,Sunrise Health,Tanjore
+P006,Asha Shetty,44,23.3,1,0,1,1.98,0,1,115,0,1,0,0,1,Diabetologist,Dr. Princy Mary,Silverline Hospitals,Tiruchirappalli
+P006,Asha Shetty,44,23.3,1,0,1,1.98,0,1,115,0,1,0,0,1,Diabetologist,Dr. Preethi Shreine,Sunrise Health,Kochi
+P007,Chitra Reddy,20,27.1,1,1,0,3.9,0,0,130,0,0,1,0,1,Gynecologist,Dr. Meera Rao,City Women Care,Karaikudi
+P007,Chitra Reddy,20,27.1,1,1,0,3.9,0,0,130,0,0,1,0,1,Gynecologist,Dr. Sahana Gupta,Elite Wellness,Chennai
+P007,Chitra Reddy,20,27.1,1,1,0,3.9,0,0,130,0,0,1,0,1,Gynecologist,Dr. Kavita Sharma,City Women Care,Kancheepuram
+P008,Meera Sharma,50,32.2,0,0,1,5.24,0,0,108,0,0,0,1,0,Endocrinologist,Dr. Sandhya Jain,Sunrise Health,Vellore
+P008,Meera Sharma,50,32.2,0,0,1,5.24,0,0,108,0,0,0,1,0,Endocrinologist,Dr. Anjali Menon,Trust Clinic,Hyderabad
+P009,Anita Nair,47,18.9,0,1,0,4.56,0,1,79,1,1,0,1,0,Endocrinologist,Dr. Sunitha,Sunrise Health,Theni
+P009,Anita Nair,47,18.9,0,1,0,4.56,0,1,79,1,1,0,1,0,Endocrinologist,Dr. Angel Kannan,Trust Clinic,Kochi
+P010,Anita Iyer,21,23.5,0,0,0,2.48,0,0,118,1,0,0,0,0,General Physician,Dr.Sunil Prasath,Menagha Clinic,Tiruchirappalli
+P011,Riya Nath,28,12.7,0,0,0,3.52,1,0,147,1,0,0,0,1,Diabetologist,Dr. Priya Nair,Silverline Hospitals,Delhi
+P011,Riya Nath,28,12.7,0,0,0,3.52,1,0,147,1,0,0,0,1,Diabetologist,Dr. Lata Verma,Sunrise Health,Mumbai
+P012,Tara Kumar,27,26.9,0,0,0,3.09,0,0,161,1,1,0,0,1,Diabetologist,Dr. Priya Nair,Silverline Hospitals,Delhi
+P012,Tara Kumar,27,26.9,0,0,0,3.09,0,0,161,1,1,0,0,1,Diabetologist,Dr. Lata Verma,Sunrise Health,Mumbai
+P013,Pooja Reddy,59,35.8,0,0,0,0.09,0,1,108,0,1,0,0,0,General Physician,Dr. Jagadeeshwari,Meenakshi Hospitals,Madurai
+P014,Uma Singh,24,25.9,0,0,0,5.56,0,0,121,0,0,0,1,0,Endocrinologist,Dr. Sandhya Jain,Sunrise Health,Mumbai
+P014,Uma Singh,24,25.9,0,0,0,5.56,0,0,121,0,0,0,1,0,Endocrinologist,Dr. Anjali Menon,Trust Clinic,Hyderabad
+P015,Uma Reddy,48,28.1,1,0,1,-0.7,0,0,74,0,1,0,0,0,General Physician,Dr. Jagadeeshwari,Meenakshi Hospitals,Madurai
+P016,Yamini Patel,17,29.7,1,1,0,2.78,0,1,104,0,1,1,0,0,Gynecologist,Dr. Meera Rao,City Women Care,Bengaluru
+P016,Yamini Patel,17,29.7,1,1,0,2.78,0,1,104,0,1,1,0,0,Gynecologist,Dr. Sahana Gupta,Elite Wellness,Chennai
+P016,Yamini Patel,17,29.7,1,1,0,2.78,0,1,104,0,1,1,0,0,Gynecologist,Dr. Kavita Sharma,City Women Care,Kancheepuram
+P017,Ira Iyer,48,22.6,0,1,0,3.35,0,0,104,0,0,0,0,0,General Physician,Dr. Nazneen,Deepan Hospitals,Coimbatore
+P018,Yamini Das,48,19.9,0,0,0,5.01,1,0,81,0,0,0,1,0,Endocrinologist,Dr. Sandhya Jain,Sunrise Health,Vellore
+P018,Yamini Das,48,19.9,0,0,0,5.01,1,0,81,0,0,0,1,0,Endocrinologist,Dr. Anjali Menon,Trust Clinic,Hyderabad
+P019,Riya Reddy,37,30.4,1,0,0,2.64,0,0,115,0,0,0,0,0,General Physician,Dr. Jagadeeshwari,Meenakshi Hospitals,Madurai
+P020,Vani Das,59,21.7,1,1,1,2.81,1,1,118,0,0,0,1,0,Endocrinologist,Dr. Sandhya Jain,Sunrise Health,Vellore
+P020,Vani Das,59,21.7,1,1,1,2.81,1,1,118,0,0,0,1,0,Endocrinologist,Dr. Anjali Menon,Trust Clinic,Hyderabad
+P021,Asha Singh,48,21.4,0,1,0,2.23,0,0,101,0,1,0,0,0,General Physician,Dr. Jagadeeshwari,Meenakshi Hospitals,Madurai
+P022,Uma Reddy,58,20.3,1,0,0,0.67,1,0,87,0,0,0,0,0,General Physician,Dr. Jagadeeshwari,Meenakshi Hospitals,Madurai
+P023,Yamini Reddy,23,30.8,1,0,0,3.98,0,0,99,0,0,0,0,0,General Physician,Dr. Jagadeeshwari,Meenakshi Hospitals,Madurai
+P024,Uma Sharma,57,23.3,1,0,0,5.34,0,0,103,0,0,0,1,0,Endocrinologist,Dr. Sandhya Jain,Sunrise Health,Vellore
+P024,Uma Sharma,57,23.3,1,0,0,5.34,0,0,103,0,0,0,1,0,Endocrinologist,Dr. Anjali Menon,Trust Clinic,Hyderabad
+P025,Bhavya Gupta,55,15.9,1,0,0,3.28,0,0,80,0,0,0,0,0,General Physician,Dr. Jagadeeshwari,Meenakshi Hospitals,Madurai
+P026,Pooja Sharma,40,34.3,1,0,1,3.57,1,0,141,1,0,0,0,1,Diabetologist,Dr. Priya Nair,Silverline Hospitals,Delhi
+P026,Pooja Sharma,40,34.3,1,0,1,3.57,1,0,141,1,0,0,0,1,Diabetologist,Dr. Lata Verma,Sunrise Health,Mumbai
+P027,Jaya Gupta,52,24.3,0,0,0,1.78,1,0,86,0,0,0,0,0,General Physician,Dr. Jagadeeshwari,Meenakshi Hospitals,Madurai
+P028,Bhavya Reddy,20,31.5,1,0,0,3.0,0,0,118,0,1,0,0,1,Diabetologist,Dr. Priya Nair,Silverline Hospitals,Delhi
+P028,Bhavya Reddy,20,31.5,1,0,0,3.0,0,0,118,0,1,0,0,1,Diabetologist,Dr. Lata Verma,Sunrise Health,Mumbai
+P029,Lata Kumar,43,29.2,0,0,0,3.19,0,0,96,1,1,0,0,0,General Physician,Dr. Jagadeeshwari,Meenakshi Hospitals,Madurai
+P030,Kavya Patel,50,28.9,0,0,0,1.31,0,0,132,0,0,0,0,1,Diabetologist,Dr. Priya Nair,Silverline Hospitals,Delhi
+P030,Kavya Patel,50,28.9,0,0,0,1.31,0,0,132,0,0,0,0,1,Diabetologist,Dr. Lata Verma,Sunrise Health,Mumbai
+P031,Esha Reddy,51,28.2,0,0,0,2.88,0,1,90,0,1,0,0,0,General Physician,Dr. Jagadeeshwari,Meenakshi Hospitals,Madurai
+P032,Deepa Singh,28,23.3,1,0,0,2.51,0,0,181,1,0,0,0,1,Diabetologist,Dr. Priya Nair,Silverline Hospitals,Delhi
+P032,Deepa Singh,28,23.3,1,0,0,2.51,0,0,181,1,0,0,0,1,Diabetologist,Dr. Lata Verma,Sunrise Health,Mumbai
+P033,Zara Singh,34,24.6,1,1,0,2.08,1,0,74,0,1,0,0,0,General Physician,Dr. Jagadeeshwari,Meenakshi Hospitals,Madurai
+P034,Lata Singh,54,19.9,0,0,0,-0.14,1,0,144,1,0,0,0,1,Diabetologist,Dr. Priya Nair,Silverline Hospitals,Delhi
+P034,Lata Singh,54,19.9,0,0,0,-0.14,1,0,144,1,0,0,0,1,Diabetologist,Dr. Lata Verma,Sunrise Health,Mumbai
+P035,Meera Reddy,25,26.5,1,0,0,3.12,0,1,101,0,0,0,0,0,General Physician,Dr. Jagadeeshwari,Meenakshi Hospitals,Madurai
+P036,Tara Das,37,20.1,1,1,1,2.0,0,1,134,0,0,0,0,1,Diabetologist,Dr. Priya Nair,Silverline Hospitals,Delhi
+P036,Tara Das,37,20.1,1,1,1,2.0,0,1,134,0,0,0,0,1,Diabetologist,Dr. Lata Verma,Sunrise Health,Mumbai
+P037,Anita Patel,18,23.1,0,0,1,0.76,1,1,72,0,0,0,1,0,Endocrinologist,Dr. Sandhya Jain,Sunrise Health,Mumbai
+P037,Anita Patel,18,23.1,0,0,1,0.76,1,1,72,0,0,0,1,0,Endocrinologist,Dr. Anjali Menon,Trust Clinic,Hyderabad
+P038,Sana Singh,48,29.8,0,1,0,3.1,1,0,124,0,1,0,0,1,Diabetologist,Dr. Tejashwini,Silverline Hospitals,Delhi
+P038,Sana Singh,48,29.8,0,1,0,3.1,1,0,124,0,1,0,0,1,Diabetologist,Dr. Lata Verma,Sunrise Health,Mumbai
+P039,Hema Nath,29,21.5,1,1,1,5.29,0,0,92,0,0,0,1,0,Endocrinologist,Dr. Sandhya Jain,Sunrise Health,Mumbai
+P039,Hema Nath,29,21.5,1,1,1,5.29,0,0,92,0,0,0,1,0,Endocrinologist,Dr. Kanishka,Trust Clinic,Hyderabad
+P040,Meera Sharma,43,22.3,0,1,1,3.51,0,1,146,1,0,0,0,1,Diabetologist,Dr. Priya Nair,Silverline Hospitals,Delhi
+P040,Meera Sharma,43,22.3,0,1,1,3.51,0,1,146,1,0,0,0,1,Diabetologist,Dr. Shamina ,Sunrise Health,Mumbai
+P041,Riya Reddy,21,19.4,1,1,0,5.75,0,0,107,0,1,0,1,0,Endocrinologist,Dr. Manorishika,Sunrise Health,Mumbai
+P041,Riya Reddy,21,19.4,1,1,0,5.75,0,0,107,0,1,0,1,0,Endocrinologist,Dr. Anjali Menon,Trust Clinic,Hyderabad
+P042,Vani Nair,49,20.5,0,0,0,3.33,0,1,87,1,0,0,0,0,General Physician,Dr. Jagadeeshwari,Meenakshi Hospitals,Madurai
+P043,Bhavya Gupta,25,23.7,0,0,1,3.93,1,0,126,0,0,0,0,1,Diabetologist,Dr. Josphine ,Silverline Hospitals,Delhi
+P043,Bhavya Gupta,25,23.7,0,0,1,3.93,1,0,126,0,0,0,0,1,Diabetologist,Dr. Tharagai,Sunrise Health,Mumbai
+P044,Vani Kumar,18,33.7,0,1,0,4.54,0,0,104,0,1,0,1,0,Endocrinologist,Dr. Sandhya Jain,Sunrise Health,Mumbai
+P044,Vani Kumar,18,33.7,0,1,0,4.54,0,0,104,0,1,0,1,0,Endocrinologist,Dr. Tanisha Trisha,Trust Clinic,Hyderabad
+P045,Zara Nath,26,23.8,0,0,0,2.49,0,0,93,0,1,0,0,0,General Physician,Dr. Sophia Priya,Silverline Hospitals,Sivagangai
+P046,Kavya Shetty,32,29.6,1,0,1,0.44,0,1,98,0,0,0,0,0,General Physician,Dr.Nivetha,Sunrise Health,Tanjore
+P047,Jaya Gupta,26,27.8,0,0,1,1.59,0,0,88,0,0,0,0,0,General Physician,Dr. Nazneen,Deepan Hospitals,Coimbatore
+P048,Kavya Reddy,36,23.6,0,0,0,1.17,0,0,70,0,0,0,0,0,General Physician,Dr. Sophia Priya,Silverline Hospitals,Sivagangai
+P049,Chitra Das,41,26.9,0,1,0,3.05,1,0,93,0,0,0,0,0,General Physician,Dr.Nivetha,Sunrise Health,Tanjore
+P050,Gita Gupta,58,26.6,0,0,0,0.59,0,0,105,0,0,0,0,0,General Physician,Dr. Sophia Priya,Silverline Hospitals,Sivagangai
