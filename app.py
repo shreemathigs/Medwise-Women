@@ -1,4 +1,3 @@
-# app.py - Fixed version
 import streamlit as st
 import pandas as pd
 import sys
@@ -889,9 +888,18 @@ class MedwiseApp:
         overall_risk = self.calculate_overall_risk(predictions)
         risk_class = "risk-high" if overall_risk == "High" else "risk-medium" if overall_risk == "Medium" else "risk-low"
         
+        # Set text color based on risk level
+        if overall_risk == "High":
+            text_color = "#c62828"  # Dark red for high risk
+        elif overall_risk == "Medium":
+            text_color = "#ef6c00"  # Dark orange for medium risk
+        else:
+            text_color = "#2e7d32"  # Dark green for low risk
+    
+
         st.markdown(f"""
         <div class="{risk_class}">
-            <h3 style = color:black; margin:0;>Overall Health Risk: {overall_risk}</h3>
+            <h3 style = color:{text_color};margin:0;>Overall Health Risk: {overall_risk}</h3>
             <p>Based on your inputs, we've assessed your risk for common women's health conditions.</p>
         </div>
         """, unsafe_allow_html=True)
