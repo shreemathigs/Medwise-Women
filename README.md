@@ -157,3 +157,28 @@ http://localhost:8501
 🚀 **Try the Medwise-Women App here:**  
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-brightgreen)](https://medwise-women-6epbkmzpdjgtueoiv3ea4e.streamlit.app/)
 
+## ⚠️ Disclaimer
+
+This project is developed **strictly for academic and demonstration purposes**.  
+All data used in this application is **dummy / synthetic data** and does **not represent real patient information**.  
+The predictions and recommendations provided by this system are **not medical advice** and should **not be used for real-world diagnosis or treatment**.  
+
+Always consult a qualified healthcare professional for medical concerns.
+
+---
+## 📜 License
+
+This project is developed for **academic and educational purposes only**.  
+All source code and materials are provided for learning and demonstration.
+
+You may view, fork, and reference this repository for non-commercial use.  
+For commercial usage or redistribution, please contact the author.
+
+---
+## 📬 Contact
+
+**Shreemathi G.S**   
+
+- GitHub: https://github.com/shreemathigs  
+- LinkedIn: https://www.linkedin.com/in/shreemathigs/
+
