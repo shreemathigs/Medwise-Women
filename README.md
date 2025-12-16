@@ -12,6 +12,10 @@ An AI-powered digital health platform designed specifically for women's healthca
 - [Project Structure](#-project-structure)
 - [Technology Stack](#-technology-stack)
 - [Installation](#-installation)
+- [Live Demo](#-live-demo)
+- [Disclaimer](#-disclaimer)
+- [License](#-license)
+- [Contact](#-contact)
 
 
 ---
